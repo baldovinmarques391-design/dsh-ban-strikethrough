@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Ban strikethrough">
+  <!-- No backing plate. One crest and one trough, mirrored about the centre. -->
+  <path d="M4.2 12c1.2-3.4 2.6-5.4 3.9-5.4s2.6 2 3.9 5.4 2.6 5.4 3.9 5.4 2.6-2 3.9-5.4" fill="none" stroke="#54626f" stroke-width="1.7" stroke-linecap="round"/>
+  <circle cx="12" cy="12" r="10.5" fill="none" stroke="#e5484d" stroke-width="2.2"/>
+  <path d="M4.85 19.15 19.15 4.85" stroke="#e5484d" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

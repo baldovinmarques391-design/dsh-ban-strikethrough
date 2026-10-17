@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Ban strikethrough",
+    "description": "Never render markdown strikethrough, and keep the ~ marker that a range dash lost. Covers chat, thinking rows, and the document preview."
+  }
+}

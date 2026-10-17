@@ -1,0 +1,10 @@
+# dsh-ban-strikethrough bundle patch: one Host-plane row.
+#
+# The row exists so the profile has a single Loader entry to enable, disable,
+# and inspect. All of the behavior is in the browser half, which the package
+# declares through `dsh.client` in package.json; `dsh-client-modules` composes
+# that declaration into the Web boot graph, so the browser module id equals the
+# package name `dsh-ban-strikethrough` and needs no wiring here.
+- insert:
+    - id: ban-strikethrough
+      name: dsh-ban-strikethrough
